@@ -2,7 +2,8 @@
 
 Extract structured JSON fields (invoice number, date, vendor name, vendor email, currency, subtotal, tax/VAT/GST, and grand total) from PDF invoices and receipts via public URL, direct file upload, or raw text.
 
-🔗 **Get your free API key:** [PDF Invoice & Receipt Data Extractor on RapidAPI](YOUR_RAPIDAPI_LISTING_URL) *(50 free requests/month)*
+🔗 **Get your free API key:** [PDF Invoice & Receipt Data Extractor on RapidAPI](https://rapidapi.com/medhakamath/api/pdf-invoice-receipt-data-extractor) *(50 free requests/month)*
+
 
 ## Endpoints
 - **`POST /v1/parse-pdf-url`** — Fetches a PDF from a public HTTPS URL and extracts structured invoice JSON.
